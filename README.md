@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LayKhatri
+- 👀 I’m interested in Microsoft Eco system
+- 🌱 I’m currently learning Svelte JS
+- 👨‍💻 I'm work at IT Path Solutions Pvt. Ltd
+- 💻 I have worked on Technologies: .Net Framework, .Net Core, Vue.JS, Svelte JS
